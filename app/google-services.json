@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "279673678524",
+    "firebase_url": "https://loginregistation.firebaseio.com",
+    "project_id": "loginregistation",
+    "storage_bucket": "loginregistation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279673678524:android:63db3ccdd3bcab46",
+        "android_client_info": {
+          "package_name": "ingeniumbd.com.firebaseloginregistationforgatepassward"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279673678524-go6ic6nru2m4sh0lq2stg9ioshqa6lgi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ingeniumbd.com.firebaseloginregistationforgatepassward",
+            "certificate_hash": "ddaac5e2b367fd9d402397e6203f98a54f0ad7f5"
+          }
+        },
+        {
+          "client_id": "279673678524-tc15g1tt0h16gp62gsulk16ett7vi12a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0dd2m-3GhC0-q-V56OfSO7C1lK0i5v1o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279673678524-tc15g1tt0h16gp62gsulk16ett7vi12a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
